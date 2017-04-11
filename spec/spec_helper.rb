@@ -18,6 +18,8 @@
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 
 require_relative '../lib/warmup'
+require_relative '../lib/weapons/bow'
+
 require 'pry'
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
