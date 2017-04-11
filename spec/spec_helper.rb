@@ -19,6 +19,7 @@
 
 require_relative '../lib/warmup'
 require_relative '../lib/weapons/bow'
+require_relative '../lib/viking'
 
 require 'pry'
 RSpec.configure do |config|
